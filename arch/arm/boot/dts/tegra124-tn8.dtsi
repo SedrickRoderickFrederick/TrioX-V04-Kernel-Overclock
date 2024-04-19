@@ -1,3 +1,4 @@
+
 /*
  * arch/arm/boot/dts/tegra124-tn8.dtsi
  *
@@ -118,7 +119,7 @@
 	};
 
 	gpu_edp {
-		nvidia,edp_limit = <11200>;
+		nvidia,edp_limit = <12000>;
 	};
 
 	udc@7d000000 {
